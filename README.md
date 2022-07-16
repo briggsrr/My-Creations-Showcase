@@ -8,5 +8,3 @@ Currently have example outputs for the following projects:
 - BST-Movie-Sorter
 - SVD-Image-Compression
 
-Notes: 
-> Alot of these projects fully capabilities cannot be captured in pictures add videos?
